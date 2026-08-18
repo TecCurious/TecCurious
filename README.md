@@ -71,8 +71,8 @@ vendor records, with role-based access.
 ## GitHub
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TecCurious&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecCurious&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
